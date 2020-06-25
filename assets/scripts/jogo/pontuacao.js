@@ -1,0 +1,8 @@
+/*
+class Pontuacao{
+  constructor(){
+
+  }
+}
+
+?**/
